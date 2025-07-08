@@ -18,7 +18,8 @@ Interactive Checklist: A built-in checklist feature to help you organize your ta
 Expo Go (Snack): The primary development environment used for building and testing this application, providing a seamless way to create and share React Native projects.
 
 #### Planning Outline :
-[_App_DevelopmentPlanningStage_Outline.pdf](https://github.com/user-attachments/files/21123417/_App_DevelopmentPlanningStage_Outline.pdf)
+[DeepFocusApp_Development_Planning_Outline.pdf](https://github.com/user-attachments/files/21123541/DeepFocusApp_Development_Planning_Outline.pdf)
+
 
 #### Screenshots of the Deep Focus App:
 
